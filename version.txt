@@ -1,1 +1,1 @@
-__WIPE_OUT_SELF__
+V1.0.1
